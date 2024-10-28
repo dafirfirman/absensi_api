@@ -1,5 +1,4 @@
 <?php
-// Termasuk file koneksi.php untuk menghubungkan ke database
 include '../config/koneksi.php';
 
 // Mengatur header agar API mengembalikan data dalam format JSON
