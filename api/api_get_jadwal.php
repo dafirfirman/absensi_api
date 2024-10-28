@@ -1,5 +1,4 @@
 <?php
-// Termasuk file koneksi.php untuk koneksi database
 include '../config/koneksi.php';
 
 // Mengecek apakah metode yang digunakan adalah GET
